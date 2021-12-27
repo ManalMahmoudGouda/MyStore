@@ -1,0 +1,8 @@
+{
+  "emailAddress":{
+
+    "locatorUsing": "id",
+    "locatorValue": "email_create"
+
+}
+}
